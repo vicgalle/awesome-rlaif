@@ -2,8 +2,10 @@
 
 A curated and updated list of relevant articles and repositories on **Reinforcement Learning from AI Feedback (RLAIF)**. In particular, in this list we keep track of the following motives:
 
-1. Using RL to optimize LLMs without humans, i.e., with a critique LM as a reward model
-2. Using LLMs to generate feedback, in a self-critique loop
+1. Using **RL to optimize LLMs without humans**, i.e., with a critique LM as a reward model.
+2. Using LLMs to generate feedback, in a **self-critique** loop.
+
+Some of the listed resources could also be considered as part of RLHF: the frontier is blurry. There are already awesome lists of RLHF, thus, here we make a focus on the previous two points.
 
 ## Articles 📚
 
